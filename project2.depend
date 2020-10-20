@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1592267908 source:c:\users\Özlem\documents\project2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<unistd.h>
+

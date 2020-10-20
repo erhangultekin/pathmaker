@@ -1,0 +1,6 @@
+if<bin> {make<ifdogrucalisiyo>; make<ifdogrucalisiyo/ifnotabak>;}
+ifnot<asli> {make<ifnotdadogru>; if<bin>{make<ifnoticiif>;}
+go<*/*/*/*/*/*/*>;
+go<arasi/*/arasinda>;
+make<*/*/*/*/*/*/*>;
+make<erhan>
